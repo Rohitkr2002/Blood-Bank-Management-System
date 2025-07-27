@@ -21,3 +21,5 @@ A GUI-based Blood Bank Management System built using **Python** and **Tkinter** 
 - Form for entering donor information
 - Live bar chart showing blood stock
 - Scrollable table displaying all donor details
+
+![image alt](https://github.com/Rohitkr2002/Blood-Bank-Management-System/blob/9279c1a7728b78f42afd7e46452295dcb4535d7a/project-Output.png)
