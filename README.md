@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green.svg)](https://docs.python.org/3/library/tkinter.html)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Rohitkr2002/Blood-Bank-Management-System?style=social)](https://github.com/Rohitkr2002/Blood-Bank-Management-System)
 
 *A comprehensive GUI-based Blood Bank Management System built with Python and Tkinter*
@@ -175,12 +174,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Rohit Kumar**
@@ -218,7 +211,7 @@ If you encounter any issues or have suggestions:
 
 <div align="center">
 
-**Made with ❤️ by Rohit Kumar**
+**Made with ❤️ by Rohit Kumar Singh**
 
 [⬆ Back to Top](#-blood-bank-management-system)
 
